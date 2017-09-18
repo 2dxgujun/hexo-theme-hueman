@@ -1,0 +1,36 @@
+menu:
+    Home: /
+    Contact: /contact/index.html
+    About: /about/index.html
+
+customize:
+    theme_color: '#368CBF'
+    highlight: github-gist
+    sidebar: left
+    thumbnail: false
+    favicon: /favicon.ico
+    social_links:
+        github: https://github.com/2dxgujun
+        rss: /atom.xml
+
+widgets:
+    - catalog
+    - recent_posts
+    - category
+    - archive
+    - tagcloud
+    - links
+
+comment:
+    isso: gujun.me/isso
+
+share: default
+
+plugins:
+    lightgallery: true
+    justifiedgallery: true
+    google_analytics: UA-53728547-1
+
+miscellaneous:
+    links:
+      Github: https://github.com/2dxgujun
