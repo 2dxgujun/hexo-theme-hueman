@@ -5,7 +5,7 @@ menu:
 
 customize:
     theme_color: '#368CBF'
-    highlight: github-gist
+    highlight: foundation
     sidebar: left
     thumbnail: false
     favicon: /favicon.ico
